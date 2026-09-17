@@ -1,22 +1,15 @@
 export const company = {
-  name: "AAM Partners LLC",
-  tagline: "Everything You Need. Delivered with Confidence.",
+  name: "ROSARK LLC",
+  tagline: "Contemporary essentials for considered living.",
   description:
-    "AAM Partners LLC brings together quality products across multiple categories, helping families find everything they need in one trusted online marketplace.",
-  email: "aampartnersllc1@gmail.com",
+    "ROSARK LLC is a contemporary retailer of thoughtfully chosen home, travel, apparel, and everyday objects — practical pieces, presented with care.",
+  email: "rosarkllc@gmail.com",
   address: {
-    street: "717 S Military Hwy",
-    city: "Virginia Beach",
-    state: "VA",
-    zip: "23464",
+    street: "3162 JOHNSON FERRY ROAD STE 260-132",
+    city: "MARIETTA",
+    state: "GA",
+    zip: "30062",
     country: "United States",
   },
-  social: {
-    instagram: "https://instagram.com/aampartnersllc",
-    facebook: "https://facebook.com/aampartnersllc",
-    twitter: "https://twitter.com/aampartnersllc",
-    pinterest: "https://pinterest.com/aampartnersllc",
-  },
-  hours: "Mon–Fri: 9am–6pm EST",
-  copyright: `© ${new Date().getFullYear()} AAM Partners LLC. All rights reserved.`,
+  copyright: `© ${new Date().getFullYear()} ROSARK LLC. All rights reserved.`,
 };

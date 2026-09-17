@@ -61,7 +61,7 @@ export function TrackOrderContent() {
       />
       <Container className="pb-16">
         <div className="mx-auto max-w-lg">
-          <form onSubmit={handleTrack} className="rounded-xl border border-border bg-white p-6 md:p-8">
+          <form onSubmit={handleTrack} className="border border-border bg-card p-6 md:p-8">
             <div className="space-y-4">
               <div>
                 <Label htmlFor="order-number">Order Number</Label>
@@ -104,7 +104,7 @@ export function TrackOrderContent() {
           )}
 
           {result && (
-            <div className="mt-6 rounded-xl border border-border bg-white p-6 md:p-8">
+            <div className="mt-6 border border-border bg-card p-6 md:p-8">
               <div className="flex items-center gap-3">
                 {result.status === "Delivered" ? (
                   <CheckCircle className="h-6 w-6 text-primary" />

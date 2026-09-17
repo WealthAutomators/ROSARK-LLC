@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { cn } from "@/lib/utils";
-import { Button } from "./button";
 
 interface SectionHeadingProps {
   title: string;
   subtitle?: string;
+  eyebrow?: string;
   viewMoreLink?: string;
   viewMoreText?: string;
   className?: string;
@@ -14,27 +14,38 @@ interface SectionHeadingProps {
 export function SectionHeading({
   title,
   subtitle,
+  eyebrow,
   viewMoreLink,
-  viewMoreText = "View More",
+  viewMoreText = "View all",
   className,
   centered = false,
 }: SectionHeadingProps) {
   return (
     <div
       className={cn(
-        "mb-8 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between",
+        "mb-10 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between",
         centered && "text-center sm:flex-col sm:items-center",
         className
       )}
     >
-      <div>
-        <h2 className="text-2xl font-semibold tracking-tight text-foreground md:text-3xl">{title}</h2>
-        {subtitle && <p className="mt-2 text-muted-foreground">{subtitle}</p>}
+      <div className={cn(centered && "max-w-2xl")}>
+        {eyebrow && (
+          <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-accent">
+            {eyebrow}
+          </p>
+        )}
+        <h2 className="font-serif text-3xl font-medium tracking-tight text-foreground md:text-4xl lg:text-[2.75rem]">
+          {title}
+        </h2>
+        {subtitle && <p className="mt-3 max-w-xl text-muted-foreground leading-relaxed">{subtitle}</p>}
       </div>
       {viewMoreLink && (
-        <Button variant="link" asChild className="text-sm font-medium">
-          <Link href={viewMoreLink}>{viewMoreText} →</Link>
-        </Button>
+        <Link
+          href={viewMoreLink}
+          className="text-[12px] font-medium uppercase tracking-[0.16em] text-foreground underline decoration-border underline-offset-8 transition-colors hover:decoration-foreground"
+        >
+          {viewMoreText}
+        </Link>
       )}
     </div>
   );

@@ -1,0 +1,1009 @@
+{
+  "generatedAt": "2026-09-16T18:06:10.880Z",
+  "siteImages": {
+    "hero": {
+      "publicPath": "/hero/hero-1.jpg",
+      "libraryId": "asset_111",
+      "libraryName": "Linen Bedding Set",
+      "libraryType": "Bedding Set",
+      "libraryPath": "images/home-living/linen-bedding-set-001.jpg"
+    },
+    "lifestyle": {
+      "publicPath": "/banners/lifestyle.jpg",
+      "libraryId": "asset_109",
+      "libraryName": "Knit Throw Blanket",
+      "libraryType": "Throw Blanket",
+      "libraryPath": "images/home-living/knit-throw-blanket-001.jpg"
+    },
+    "about": {
+      "publicPath": "/banners/about.jpg",
+      "libraryId": "asset_109",
+      "libraryName": "Knit Throw Blanket",
+      "libraryType": "Throw Blanket",
+      "libraryPath": "images/home-living/knit-throw-blanket-001.jpg"
+    },
+    "promo": {
+      "publicPath": "/banners/featured.jpg",
+      "libraryId": "asset_183",
+      "libraryName": "Weekender Duffel Bag",
+      "libraryType": "Weekender Bag",
+      "libraryPath": "images/travel-bags/weekender-duffel-bag-001.jpg"
+    },
+    "editorial-product": {
+      "publicPath": "/banners/editorial.jpg",
+      "libraryId": "asset_100",
+      "libraryName": "Ceramic Vase",
+      "libraryType": "Vase",
+      "libraryPath": "images/home-living/ceramic-vase-001.jpg"
+    },
+    "og": {
+      "publicPath": "/banners/og.jpg",
+      "libraryId": "asset_122",
+      "libraryName": "Woven Storage Basket",
+      "libraryType": "Storage Basket",
+      "libraryPath": "images/home-living/woven-storage-basket-001.jpg"
+    }
+  },
+  "products": [
+    {
+      "slug": "meridian-linen-duvet-set",
+      "name": "Meridian Linen Duvet Set",
+      "category": "Home",
+      "query": "linen bedding set",
+      "images": [
+        {
+          "path": "/products/meridian-linen-duvet-set-1.jpg",
+          "libraryId": "asset_111",
+          "libraryName": "Linen Bedding Set",
+          "libraryType": "Bedding Set"
+        },
+        {
+          "path": "/products/meridian-linen-duvet-set-1.jpg",
+          "libraryId": "asset_111",
+          "libraryName": "Linen Bedding Set",
+          "libraryType": "Bedding Set"
+        }
+      ]
+    },
+    {
+      "slug": "haven-knit-throw",
+      "name": "Haven Knit Throw",
+      "category": "Home",
+      "query": "knit throw blanket",
+      "images": [
+        {
+          "path": "/products/haven-knit-throw-1.jpg",
+          "libraryId": "asset_109",
+          "libraryName": "Knit Throw Blanket",
+          "libraryType": "Throw Blanket"
+        },
+        {
+          "path": "/products/haven-knit-throw-1.jpg",
+          "libraryId": "asset_109",
+          "libraryName": "Knit Throw Blanket",
+          "libraryType": "Throw Blanket"
+        }
+      ]
+    },
+    {
+      "slug": "solace-ceramic-vessel",
+      "name": "Solace Ceramic Vessel",
+      "category": "Home",
+      "query": "ceramic vase",
+      "images": [
+        {
+          "path": "/products/solace-ceramic-vessel-1.jpg",
+          "libraryId": "asset_100",
+          "libraryName": "Ceramic Vase",
+          "libraryType": "Vase"
+        },
+        {
+          "path": "/products/solace-ceramic-vessel-2.jpg",
+          "libraryId": "asset_101",
+          "libraryName": "Ceramic Vase",
+          "libraryType": "Vase"
+        }
+      ]
+    },
+    {
+      "slug": "tripod-floor-lamp",
+      "name": "Tripod Floor Lamp",
+      "category": "Home",
+      "query": "floor lamp",
+      "images": [
+        {
+          "path": "/products/tripod-floor-lamp-1.jpg",
+          "libraryId": "asset_094",
+          "libraryName": "Standing Floor Lamp",
+          "libraryType": "Floor Lamp"
+        },
+        {
+          "path": "/products/tripod-floor-lamp-1.jpg",
+          "libraryId": "asset_094",
+          "libraryName": "Standing Floor Lamp",
+          "libraryType": "Floor Lamp"
+        }
+      ]
+    },
+    {
+      "slug": "grove-stoneware-dinner-plates",
+      "name": "Grove Stoneware Dinner Plates",
+      "category": "Kitchen & Dining",
+      "query": "stoneware dinner plate",
+      "images": [
+        {
+          "path": "/products/grove-stoneware-dinner-plates-1.jpg",
+          "libraryId": "asset_137",
+          "libraryName": "Stoneware Dinner Plate",
+          "libraryType": "Dinner Plate"
+        },
+        {
+          "path": "/products/grove-stoneware-dinner-plates-2.jpg",
+          "libraryId": "asset_138",
+          "libraryName": "Stoneware Dinner Plate",
+          "libraryType": "Dinner Plate"
+        }
+      ]
+    },
+    {
+      "slug": "hearthwood-cutting-board",
+      "name": "Hearthwood Cutting Board",
+      "category": "Kitchen & Dining",
+      "query": "wooden cutting board",
+      "images": [
+        {
+          "path": "/products/hearthwood-cutting-board-1.jpg",
+          "libraryId": "asset_142",
+          "libraryName": "Wooden Serving Board",
+          "libraryType": "Cutting Board"
+        },
+        {
+          "path": "/products/hearthwood-cutting-board-2.jpg",
+          "libraryId": "asset_143",
+          "libraryName": "Wooden Serving Board",
+          "libraryType": "Cutting Board"
+        }
+      ]
+    },
+    {
+      "slug": "ember-cast-iron-skillet",
+      "name": "Ember Cast Iron Skillet",
+      "category": "Kitchen & Dining",
+      "query": "cast iron skillet",
+      "images": [
+        {
+          "path": "/products/ember-cast-iron-skillet-1.jpg",
+          "libraryId": "asset_124",
+          "libraryName": "Cast Iron Skillet",
+          "libraryType": "Skillet"
+        },
+        {
+          "path": "/products/ember-cast-iron-skillet-1.jpg",
+          "libraryId": "asset_124",
+          "libraryName": "Cast Iron Skillet",
+          "libraryType": "Skillet"
+        }
+      ]
+    },
+    {
+      "slug": "everyday-ceramic-mugs",
+      "name": "Everyday Ceramic Mugs",
+      "category": "Kitchen & Dining",
+      "query": "ceramic mug",
+      "images": [
+        {
+          "path": "/products/everyday-ceramic-mugs-1.jpg",
+          "libraryId": "asset_126",
+          "libraryName": "Ceramic Mug",
+          "libraryType": "Mug"
+        },
+        {
+          "path": "/products/everyday-ceramic-mugs-2.jpg",
+          "libraryId": "asset_125",
+          "libraryName": "Ceramic Mug",
+          "libraryType": "Mug"
+        }
+      ]
+    },
+    {
+      "slug": "northbound-canvas-weekender",
+      "name": "Northbound Canvas Weekender",
+      "category": "Travel",
+      "query": "canvas weekender bag",
+      "images": [
+        {
+          "path": "/products/northbound-canvas-weekender-1.jpg",
+          "libraryId": "asset_183",
+          "libraryName": "Weekender Duffel Bag",
+          "libraryType": "Weekender Bag"
+        },
+        {
+          "path": "/products/northbound-canvas-weekender-1.jpg",
+          "libraryId": "asset_183",
+          "libraryName": "Weekender Duffel Bag",
+          "libraryType": "Weekender Bag"
+        }
+      ]
+    },
+    {
+      "slug": "saffron-travel-pack",
+      "name": "Saffron Travel Pack",
+      "category": "Travel",
+      "query": "travel backpack",
+      "images": [
+        {
+          "path": "/products/saffron-travel-pack-1.jpg",
+          "libraryId": "asset_199",
+          "libraryName": "Travel Backpack",
+          "libraryType": "Backpack"
+        },
+        {
+          "path": "/products/saffron-travel-pack-2.jpg",
+          "libraryId": "asset_198",
+          "libraryName": "Travel Backpack",
+          "libraryType": "Backpack"
+        }
+      ]
+    },
+    {
+      "slug": "fieldnote-pocket-journal",
+      "name": "Fieldnote Pocket Journal",
+      "category": "Travel",
+      "query": "passport holder",
+      "images": [
+        {
+          "path": "/products/fieldnote-pocket-journal-1.jpg",
+          "libraryId": "asset_194",
+          "libraryName": "Leather Document Cover",
+          "libraryType": "Document Cover"
+        },
+        {
+          "path": "/products/fieldnote-pocket-journal-1.jpg",
+          "libraryId": "asset_194",
+          "libraryName": "Leather Document Cover",
+          "libraryType": "Document Cover"
+        }
+      ]
+    },
+    {
+      "slug": "harbor-leather-messenger",
+      "name": "Harbor Leather Messenger",
+      "category": "Travel",
+      "query": "messenger bag",
+      "images": [
+        {
+          "path": "/products/harbor-leather-messenger-1.jpg",
+          "libraryId": "asset_192",
+          "libraryName": "Messenger Bag",
+          "libraryType": "Messenger Bag"
+        },
+        {
+          "path": "/products/harbor-leather-messenger-1.jpg",
+          "libraryId": "asset_192",
+          "libraryName": "Messenger Bag",
+          "libraryType": "Messenger Bag"
+        }
+      ]
+    },
+    {
+      "slug": "meadow-picnic-blanket",
+      "name": "Meadow Picnic Blanket",
+      "category": "Outdoor & Recreation",
+      "query": "picnic blanket",
+      "images": [
+        {
+          "path": "/products/meadow-picnic-blanket-1.jpg",
+          "libraryId": "asset_175",
+          "libraryName": "Outdoor Picnic Blanket",
+          "libraryType": "Picnic Blanket"
+        },
+        {
+          "path": "/products/meadow-picnic-blanket-2.jpg",
+          "libraryId": "asset_176",
+          "libraryName": "Outdoor Picnic Blanket",
+          "libraryType": "Picnic Blanket"
+        }
+      ]
+    },
+    {
+      "slug": "trailwell-insulated-bottle",
+      "name": "Trailwell Insulated Bottle",
+      "category": "Outdoor & Recreation",
+      "query": "insulated outdoor bottle",
+      "images": [
+        {
+          "path": "/products/trailwell-insulated-bottle-1.jpg",
+          "libraryId": "asset_173",
+          "libraryName": "Insulated Outdoor Bottle",
+          "libraryType": "Insulated Bottle"
+        },
+        {
+          "path": "/products/trailwell-insulated-bottle-1.jpg",
+          "libraryId": "asset_173",
+          "libraryName": "Insulated Outdoor Bottle",
+          "libraryType": "Insulated Bottle"
+        }
+      ]
+    },
+    {
+      "slug": "gardenhand-tool-set",
+      "name": "Gardenhand Tool Set",
+      "category": "Outdoor & Recreation",
+      "query": "garden tools",
+      "images": [
+        {
+          "path": "/products/gardenhand-tool-set-1.jpg",
+          "libraryId": "asset_169",
+          "libraryName": "Garden Tools",
+          "libraryType": "Garden Tool Set"
+        },
+        {
+          "path": "/products/gardenhand-tool-set-1.jpg",
+          "libraryId": "asset_169",
+          "libraryName": "Garden Tools",
+          "libraryType": "Garden Tool Set"
+        }
+      ]
+    },
+    {
+      "slug": "porchfire-lantern",
+      "name": "Porchfire Lantern",
+      "category": "Outdoor & Recreation",
+      "query": "camping lantern",
+      "images": [
+        {
+          "path": "/products/porchfire-lantern-1.jpg",
+          "libraryId": "asset_162",
+          "libraryName": "Camping Lantern",
+          "libraryType": "Lantern"
+        },
+        {
+          "path": "/products/porchfire-lantern-2.jpg",
+          "libraryId": "asset_161",
+          "libraryName": "Camping Lantern",
+          "libraryType": "Lantern"
+        }
+      ]
+    },
+    {
+      "slug": "merino-knit-edit",
+      "name": "Merino Knit Edit",
+      "category": "Apparel",
+      "query": "knit sweater",
+      "images": [
+        {
+          "path": "/products/merino-knit-edit-1.jpg",
+          "libraryId": "asset_036",
+          "libraryName": "Knit Sweater",
+          "libraryType": "Sweater"
+        },
+        {
+          "path": "/products/merino-knit-edit-1.jpg",
+          "libraryId": "asset_036",
+          "libraryName": "Knit Sweater",
+          "libraryType": "Sweater"
+        }
+      ]
+    },
+    {
+      "slug": "everyday-cotton-crews",
+      "name": "Everyday Cotton Crews",
+      "category": "Apparel",
+      "query": "cotton tshirt",
+      "images": [
+        {
+          "path": "/products/everyday-cotton-crews-1.jpg",
+          "libraryId": "asset_028",
+          "libraryName": "Cotton T-Shirt",
+          "libraryType": "T-Shirt"
+        },
+        {
+          "path": "/products/everyday-cotton-crews-2.jpg",
+          "libraryId": "asset_027",
+          "libraryName": "Cotton T-Shirt",
+          "libraryType": "T-Shirt"
+        }
+      ]
+    },
+    {
+      "slug": "stretch-chino-trousers",
+      "name": "Stretch Chino Trousers",
+      "category": "Apparel",
+      "query": "chino trousers",
+      "images": [
+        {
+          "path": "/products/stretch-chino-trousers-1.jpg",
+          "libraryId": "asset_026",
+          "libraryName": "Cotton Trousers",
+          "libraryType": "Trousers"
+        },
+        {
+          "path": "/products/stretch-chino-trousers-1.jpg",
+          "libraryId": "asset_026",
+          "libraryName": "Cotton Trousers",
+          "libraryType": "Trousers"
+        }
+      ]
+    },
+    {
+      "slug": "cable-knit-scarf",
+      "name": "Cable Knit Scarf",
+      "category": "Apparel",
+      "query": "wool scarf",
+      "images": [
+        {
+          "path": "/products/cable-knit-scarf-1.jpg",
+          "libraryId": "asset_019",
+          "libraryName": "Wool Scarf",
+          "libraryType": "Scarf"
+        },
+        {
+          "path": "/products/cable-knit-scarf-1.jpg",
+          "libraryId": "asset_019",
+          "libraryName": "Wool Scarf",
+          "libraryType": "Scarf"
+        }
+      ]
+    },
+    {
+      "slug": "compact-leather-bifold",
+      "name": "Compact Leather Bifold",
+      "category": "Accessories",
+      "query": "leather wallet",
+      "images": [
+        {
+          "path": "/products/compact-leather-bifold-1.jpg",
+          "libraryId": "asset_011",
+          "libraryName": "Leather Wallet",
+          "libraryType": "Wallet"
+        },
+        {
+          "path": "/products/compact-leather-bifold-2.jpg",
+          "libraryId": "asset_010",
+          "libraryName": "Leather Wallet",
+          "libraryType": "Wallet"
+        }
+      ]
+    },
+    {
+      "slug": "daylight-polarized-frames",
+      "name": "Daylight Polarized Frames",
+      "category": "Accessories",
+      "query": "sunglasses",
+      "images": [
+        {
+          "path": "/products/daylight-polarized-frames-1.jpg",
+          "libraryId": "asset_016",
+          "libraryName": "Sunglasses",
+          "libraryType": "Sunglasses"
+        },
+        {
+          "path": "/products/daylight-polarized-frames-2.jpg",
+          "libraryId": "asset_017",
+          "libraryName": "Sunglasses",
+          "libraryType": "Sunglasses"
+        }
+      ]
+    },
+    {
+      "slug": "saddle-leather-belt",
+      "name": "Saddle Leather Belt",
+      "category": "Accessories",
+      "query": "leather belt",
+      "images": [
+        {
+          "path": "/products/saddle-leather-belt-1.jpg",
+          "libraryId": "asset_009",
+          "libraryName": "Leather Belt",
+          "libraryType": "Belt"
+        },
+        {
+          "path": "/products/saddle-leather-belt-1.jpg",
+          "libraryId": "asset_009",
+          "libraryName": "Leather Belt",
+          "libraryType": "Belt"
+        }
+      ]
+    },
+    {
+      "slug": "matte-disc-watch",
+      "name": "Matte Disc Watch",
+      "category": "Accessories",
+      "query": "wristwatch",
+      "images": [
+        {
+          "path": "/products/matte-disc-watch-1.jpg",
+          "libraryId": "asset_021",
+          "libraryName": "Wristwatch",
+          "libraryType": "Watch"
+        },
+        {
+          "path": "/products/matte-disc-watch-2.jpg",
+          "libraryId": "asset_020",
+          "libraryName": "Wristwatch",
+          "libraryType": "Watch"
+        }
+      ]
+    },
+    {
+      "slug": "cloudweave-bath-towel-set",
+      "name": "Cloudweave Bath Towel Set",
+      "category": "Personal Essentials",
+      "query": "bath towel set",
+      "images": [
+        {
+          "path": "/products/cloudweave-bath-towel-set-1.jpg",
+          "libraryId": "asset_078",
+          "libraryName": "Bath Towel Set",
+          "libraryType": "Bath Towel"
+        },
+        {
+          "path": "/products/cloudweave-bath-towel-set-1.jpg",
+          "libraryId": "asset_078",
+          "libraryName": "Bath Towel Set",
+          "libraryType": "Bath Towel"
+        }
+      ]
+    },
+    {
+      "slug": "amberwood-scented-candle",
+      "name": "Amberwood Scented Candle",
+      "category": "Personal Essentials",
+      "query": "scented candle",
+      "images": [
+        {
+          "path": "/products/amberwood-scented-candle-1.jpg",
+          "libraryId": "asset_088",
+          "libraryName": "Scented Candle",
+          "libraryType": "Candle"
+        },
+        {
+          "path": "/products/amberwood-scented-candle-2.jpg",
+          "libraryId": "asset_089",
+          "libraryName": "Scented Candle",
+          "libraryType": "Candle"
+        }
+      ]
+    },
+    {
+      "slug": "travel-grooming-kit",
+      "name": "Travel Grooming Kit",
+      "category": "Personal Essentials",
+      "query": "grooming kit",
+      "images": [
+        {
+          "path": "/products/travel-grooming-kit-1.jpg",
+          "libraryId": "asset_082",
+          "libraryName": "Grooming Kit",
+          "libraryType": "Grooming Set"
+        },
+        {
+          "path": "/products/travel-grooming-kit-1.jpg",
+          "libraryId": "asset_082",
+          "libraryName": "Grooming Kit",
+          "libraryType": "Grooming Set"
+        }
+      ]
+    },
+    {
+      "slug": "botanical-soap-collection",
+      "name": "Botanical Soap Collection",
+      "category": "Personal Essentials",
+      "query": "soap bar set",
+      "images": [
+        {
+          "path": "/products/botanical-soap-collection-1.jpg",
+          "libraryId": "asset_090",
+          "libraryName": "Soap Bar Set",
+          "libraryType": "Soap Bar"
+        },
+        {
+          "path": "/products/botanical-soap-collection-1.jpg",
+          "libraryId": "asset_090",
+          "libraryName": "Soap Bar Set",
+          "libraryType": "Soap Bar"
+        }
+      ]
+    },
+    {
+      "slug": "studio-alignment-mat",
+      "name": "Studio Alignment Mat",
+      "category": "Fitness & Wellness",
+      "query": "yoga mat",
+      "images": [
+        {
+          "path": "/products/studio-alignment-mat-1.jpg",
+          "libraryId": "asset_077",
+          "libraryName": "Yoga Mat",
+          "libraryType": "Yoga Mat"
+        },
+        {
+          "path": "/products/studio-alignment-mat-2.jpg",
+          "libraryId": "asset_076",
+          "libraryName": "Yoga Mat",
+          "libraryType": "Yoga Mat"
+        }
+      ]
+    },
+    {
+      "slug": "recovery-foam-roller",
+      "name": "Recovery Foam Roller",
+      "category": "Fitness & Wellness",
+      "query": "foam roller",
+      "images": [
+        {
+          "path": "/products/recovery-foam-roller-1.jpg",
+          "libraryId": "asset_068",
+          "libraryName": "Foam Roller",
+          "libraryType": "Foam Roller"
+        },
+        {
+          "path": "/products/recovery-foam-roller-1.jpg",
+          "libraryId": "asset_068",
+          "libraryName": "Foam Roller",
+          "libraryType": "Foam Roller"
+        }
+      ]
+    },
+    {
+      "slug": "cast-iron-kettlebell",
+      "name": "Cast Iron Kettlebell",
+      "category": "Fitness & Wellness",
+      "query": "kettlebell",
+      "images": [
+        {
+          "path": "/products/cast-iron-kettlebell-1.jpg",
+          "libraryId": "asset_070",
+          "libraryName": "Kettlebell",
+          "libraryType": "Kettlebell"
+        },
+        {
+          "path": "/products/cast-iron-kettlebell-1.jpg",
+          "libraryId": "asset_070",
+          "libraryName": "Kettlebell",
+          "libraryType": "Kettlebell"
+        }
+      ]
+    },
+    {
+      "slug": "daily-training-bottle",
+      "name": "Daily Training Bottle",
+      "category": "Fitness & Wellness",
+      "query": "sports bottle",
+      "images": [
+        {
+          "path": "/products/daily-training-bottle-1.jpg",
+          "libraryId": "asset_072",
+          "libraryName": "Aluminium Sports Bottle",
+          "libraryType": "Sports Bottle"
+        },
+        {
+          "path": "/products/daily-training-bottle-1.jpg",
+          "libraryId": "asset_072",
+          "libraryName": "Aluminium Sports Bottle",
+          "libraryType": "Sports Bottle"
+        }
+      ]
+    },
+    {
+      "slug": "gooseneck-desk-lamp",
+      "name": "Gooseneck Desk Lamp",
+      "category": "Tech & Everyday Gadgets",
+      "query": "clip desk light",
+      "images": [
+        {
+          "path": "/products/gooseneck-desk-lamp-1.jpg",
+          "libraryId": "asset_045",
+          "libraryName": "LED Desk Light",
+          "libraryType": "Desk Light"
+        },
+        {
+          "path": "/products/gooseneck-desk-lamp-1.jpg",
+          "libraryId": "asset_045",
+          "libraryName": "LED Desk Light",
+          "libraryType": "Desk Light"
+        }
+      ]
+    },
+    {
+      "slug": "quiet-wall-clock",
+      "name": "Quiet Wall Clock",
+      "category": "Tech & Everyday Gadgets",
+      "query": "wall clock",
+      "images": [
+        {
+          "path": "/products/quiet-wall-clock-1.jpg",
+          "libraryId": "asset_114",
+          "libraryName": "Minimal Wall Clock",
+          "libraryType": "Wall Clock"
+        },
+        {
+          "path": "/products/quiet-wall-clock-1.jpg",
+          "libraryId": "asset_114",
+          "libraryName": "Minimal Wall Clock",
+          "libraryType": "Wall Clock"
+        }
+      ]
+    },
+    {
+      "slug": "heritage-bell-alarm",
+      "name": "Heritage Bell Alarm",
+      "category": "Tech & Everyday Gadgets",
+      "query": "digital alarm clock",
+      "images": [
+        {
+          "path": "/products/heritage-bell-alarm-1.jpg",
+          "libraryId": "asset_048",
+          "libraryName": "Bedside Alarm Clock",
+          "libraryType": "Alarm Clock"
+        },
+        {
+          "path": "/products/heritage-bell-alarm-1.jpg",
+          "libraryId": "asset_048",
+          "libraryName": "Bedside Alarm Clock",
+          "libraryType": "Alarm Clock"
+        }
+      ]
+    },
+    {
+      "slug": "studio-belt-drive-turntable",
+      "name": "Studio Belt-Drive Turntable",
+      "category": "Tech & Everyday Gadgets",
+      "query": "turntable",
+      "images": [
+        {
+          "path": "/products/studio-belt-drive-turntable-1.jpg",
+          "libraryId": "asset_057",
+          "libraryName": "Record Turntable",
+          "libraryType": "Turntable"
+        },
+        {
+          "path": "/products/studio-belt-drive-turntable-1.jpg",
+          "libraryId": "asset_057",
+          "libraryName": "Record Turntable",
+          "libraryType": "Turntable"
+        }
+      ]
+    },
+    {
+      "slug": "clothbound-desk-journal",
+      "name": "Clothbound Desk Journal",
+      "category": "Office / Workspace",
+      "query": "hardcover notebook",
+      "images": [
+        {
+          "path": "/products/clothbound-desk-journal-1.jpg",
+          "libraryId": "asset_147",
+          "libraryName": "Hardcover Notebook",
+          "libraryType": "Notebook"
+        },
+        {
+          "path": "/products/clothbound-desk-journal-2.jpg",
+          "libraryId": "asset_146",
+          "libraryName": "Hardcover Notebook",
+          "libraryType": "Notebook"
+        }
+      ]
+    },
+    {
+      "slug": "brass-fountain-pen",
+      "name": "Fine Steel Nib Pen",
+      "category": "Office / Workspace",
+      "query": "fountain pen",
+      "images": [
+        {
+          "path": "/products/brass-fountain-pen-1.jpg",
+          "libraryId": "asset_145",
+          "libraryName": "Fountain Pen",
+          "libraryType": "Pen"
+        },
+        {
+          "path": "/products/brass-fountain-pen-1.jpg",
+          "libraryId": "asset_145",
+          "libraryName": "Fountain Pen",
+          "libraryType": "Pen"
+        }
+      ]
+    },
+    {
+      "slug": "studio-pencil-set",
+      "name": "Studio Pencil Set",
+      "category": "Office / Workspace",
+      "query": "pencils",
+      "images": [
+        {
+          "path": "/products/studio-pencil-set-1.jpg",
+          "libraryId": "asset_151",
+          "libraryName": "Pencil Set",
+          "libraryType": "Pencils"
+        },
+        {
+          "path": "/products/studio-pencil-set-1.jpg",
+          "libraryId": "asset_151",
+          "libraryName": "Pencil Set",
+          "libraryType": "Pencils"
+        }
+      ]
+    },
+    {
+      "slug": "weekly-desk-planner",
+      "name": "Weekly Desk Planner",
+      "category": "Office / Workspace",
+      "query": "weekly planner",
+      "images": [
+        {
+          "path": "/products/weekly-desk-planner-1.jpg",
+          "libraryId": "asset_154",
+          "libraryName": "Weekly Planner",
+          "libraryType": "Planner"
+        },
+        {
+          "path": "/products/weekly-desk-planner-1.jpg",
+          "libraryId": "asset_154",
+          "libraryName": "Weekly Planner",
+          "libraryType": "Planner"
+        }
+      ]
+    },
+    {
+      "slug": "seagrass-storage-basket",
+      "name": "Seagrass Storage Basket",
+      "category": "Storage & Organization",
+      "query": "woven storage basket",
+      "images": [
+        {
+          "path": "/products/seagrass-storage-basket-1.jpg",
+          "libraryId": "asset_122",
+          "libraryName": "Woven Storage Basket",
+          "libraryType": "Storage Basket"
+        },
+        {
+          "path": "/products/seagrass-storage-basket-2.jpg",
+          "libraryId": "asset_123",
+          "libraryName": "Woven Storage Basket",
+          "libraryType": "Storage Basket"
+        }
+      ]
+    },
+    {
+      "slug": "lidded-canvas-storage-box",
+      "name": "Lidded Canvas Storage Box",
+      "category": "Storage & Organization",
+      "query": "storage box",
+      "images": [
+        {
+          "path": "/products/lidded-canvas-storage-box-1.jpg",
+          "libraryId": "asset_117",
+          "libraryName": "Storage Box",
+          "libraryType": "Storage Box"
+        },
+        {
+          "path": "/products/lidded-canvas-storage-box-1.jpg",
+          "libraryId": "asset_117",
+          "libraryName": "Storage Box",
+          "libraryType": "Storage Box"
+        }
+      ]
+    },
+    {
+      "slug": "entryway-coat-hooks",
+      "name": "Entryway Coat Hooks",
+      "category": "Storage & Organization",
+      "query": "coat hooks",
+      "images": [
+        {
+          "path": "/products/entryway-coat-hooks-1.jpg",
+          "libraryId": "asset_102",
+          "libraryName": "Coat Hooks",
+          "libraryType": "Wall Hooks"
+        },
+        {
+          "path": "/products/entryway-coat-hooks-1.jpg",
+          "libraryId": "asset_102",
+          "libraryName": "Coat Hooks",
+          "libraryType": "Wall Hooks"
+        }
+      ]
+    },
+    {
+      "slug": "soft-sided-laundry-hamper",
+      "name": "Soft-Sided Laundry Hamper",
+      "category": "Storage & Organization",
+      "query": "laundry hamper",
+      "images": [
+        {
+          "path": "/products/soft-sided-laundry-hamper-1.jpg",
+          "libraryId": "asset_110",
+          "libraryName": "Laundry Hamper",
+          "libraryType": "Laundry Basket"
+        },
+        {
+          "path": "/products/soft-sided-laundry-hamper-1.jpg",
+          "libraryId": "asset_110",
+          "libraryName": "Laundry Hamper",
+          "libraryType": "Laundry Basket"
+        }
+      ]
+    },
+    {
+      "slug": "curated-gift-box",
+      "name": "Curated Gift Box",
+      "category": "Gifts",
+      "query": "gift box",
+      "images": [
+        {
+          "path": "/products/curated-gift-box-1.jpg",
+          "libraryId": "asset_081",
+          "libraryName": "Gift Box",
+          "libraryType": "Gift Box"
+        },
+        {
+          "path": "/products/curated-gift-box-2.jpg",
+          "libraryId": "asset_080",
+          "libraryName": "Gift Box",
+          "libraryType": "Gift Box"
+        }
+      ]
+    },
+    {
+      "slug": "sienna-chess-pieces",
+      "name": "Sienna Chess Pieces",
+      "category": "Gifts",
+      "query": "chess set",
+      "images": [
+        {
+          "path": "/products/sienna-chess-pieces-1.jpg",
+          "libraryId": "asset_092",
+          "libraryName": "Chess Set",
+          "libraryType": "Chess Set"
+        },
+        {
+          "path": "/products/sienna-chess-pieces-1.jpg",
+          "libraryId": "asset_092",
+          "libraryName": "Chess Set",
+          "libraryType": "Chess Set"
+        }
+      ]
+    },
+    {
+      "slug": "loose-leaf-tea-gift-set",
+      "name": "Loose-Leaf Tea Gift Set",
+      "category": "Gifts",
+      "query": "tea set",
+      "images": [
+        {
+          "path": "/products/loose-leaf-tea-gift-set-1.jpg",
+          "libraryId": "asset_091",
+          "libraryName": "Tea Gift Set",
+          "libraryType": "Tea Set"
+        },
+        {
+          "path": "/products/loose-leaf-tea-gift-set-1.jpg",
+          "libraryId": "asset_091",
+          "libraryName": "Tea Gift Set",
+          "libraryType": "Tea Set"
+        }
+      ]
+    },
+    {
+      "slug": "pour-over-coffee-set",
+      "name": "Pour-Over Coffee Set",
+      "category": "Gifts",
+      "query": "pour over coffee set",
+      "images": [
+        {
+          "path": "/products/pour-over-coffee-set-1.jpg",
+          "libraryId": "asset_086",
+          "libraryName": "Pour Over Coffee Set",
+          "libraryType": "Coffee Dripper"
+        },
+        {
+          "path": "/products/pour-over-coffee-set-1.jpg",
+          "libraryId": "asset_086",
+          "libraryName": "Pour Over Coffee Set",
+          "libraryType": "Coffee Dripper"
+        }
+      ]
+    }
+  ]
+}

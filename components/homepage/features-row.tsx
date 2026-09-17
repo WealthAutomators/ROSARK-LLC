@@ -1,4 +1,4 @@
-import { Headphones, RotateCcw, Shield, Star, Truck } from "lucide-react";
+import { Truck, RotateCcw, Shield, Star, Mail } from "lucide-react";
 import { features } from "@/data/homepage";
 import { Container } from "@/components/ui/container";
 
@@ -6,7 +6,7 @@ const iconMap = {
   truck: Truck,
   shield: Shield,
   rotate: RotateCcw,
-  headphones: Headphones,
+  headphones: Mail,
   star: Star,
 };
 
@@ -18,11 +18,9 @@ export function FeaturesRow() {
           {features.map((feature) => {
             const Icon = iconMap[feature.icon as keyof typeof iconMap] || Truck;
             return (
-              <div key={feature.id} className="flex flex-col items-center text-center">
-                <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 transition-colors duration-300 hover:bg-accent/10">
-                  <Icon className="h-5 w-5 text-primary" />
-                </div>
-                <h3 className="text-sm font-semibold">{feature.title}</h3>
+              <div key={feature.id} className="flex flex-col">
+                <Icon className="h-5 w-5 text-accent" aria-hidden />
+                <h3 className="mt-4 text-sm font-semibold">{feature.title}</h3>
                 <p className="mt-1.5 text-sm leading-relaxed text-muted-foreground">{feature.description}</p>
               </div>
             );

@@ -10,14 +10,14 @@ export const metadata = {
 export default function CategoriesPage() {
   return (
     <Container className="py-8 md:py-12">
-      <h1 className="text-3xl font-semibold tracking-tight">Shop by Category</h1>
-      <p className="mt-2 text-muted-foreground">Browse our full range of premium towels and accessories</p>
+      <h1 className="font-serif text-3xl font-medium tracking-tight md:text-5xl">Shop by Category</h1>
+      <p className="mt-3 max-w-xl text-muted-foreground">Twelve considered collections for the home, the desk, and days away.</p>
       <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {categories.map((category) => (
           <Link
             key={category.id}
             href={`/categories/${category.slug}`}
-            className="group overflow-hidden rounded-xl border border-border bg-white transition-shadow hover:shadow-md"
+            className="group overflow-hidden border border-border bg-card transition-colors hover:border-foreground/20"
           >
             <div className="relative aspect-[16/10] overflow-hidden bg-muted">
               <Image
@@ -29,7 +29,7 @@ export default function CategoriesPage() {
               />
             </div>
             <div className="p-5">
-              <h2 className="text-lg font-semibold group-hover:text-primary">{category.name}</h2>
+              <h2 className="font-serif text-xl group-hover:text-accent">{category.name}</h2>
               <p className="mt-1 text-sm text-muted-foreground">{category.description}</p>
               <p className="mt-2 text-xs text-muted-foreground">{category.productCount} products</p>
             </div>

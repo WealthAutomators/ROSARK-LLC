@@ -1,19 +1,20 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fafafa;
-  --foreground: #1f2937;
-  --primary: #7c3aed;
-  --primary-foreground: #ffffff;
-  --accent: #f59e0b;
-  --accent-foreground: #ffffff;
-  --pink: #ec4899;
-  --muted: #f3f4f6;
-  --muted-foreground: #6b7280;
-  --border: #e5e7eb;
-  --ring: #7c3aed;
-  --card: #ffffff;
-  --radius: 12px;
+  --background: #f6f3ee;
+  --foreground: #1c1b18;
+  --primary: #2c2a26;
+  --primary-foreground: #f6f3ee;
+  --accent: #6b705c;
+  --accent-foreground: #f6f3ee;
+  --clay: #b56a4e;
+  --taupe: #a89078;
+  --muted: #ede8e1;
+  --muted-foreground: #5c5852;
+  --border: #ddd6cc;
+  --ring: #6b705c;
+  --card: #fffcf8;
+  --radius: 2px;
 }
 
 @theme inline {
@@ -23,21 +24,46 @@
   --color-primary-foreground: var(--primary-foreground);
   --color-accent: var(--accent);
   --color-accent-foreground: var(--accent-foreground);
-  --color-pink: var(--pink);
+  --color-clay: var(--clay);
+  --color-taupe: var(--taupe);
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
   --color-border: var(--border);
   --color-ring: var(--ring);
   --color-card: var(--card);
-  --font-sans: var(--font-inter);
-  --radius-lg: 12px;
-  --radius-xl: 12px;
+  --font-sans: var(--font-outfit);
+  --font-serif: var(--font-fraunces);
+  --radius-lg: 2px;
+  --radius-xl: 4px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-outfit), system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+.font-serif {
+  font-family: var(--font-fraunces), Georgia, "Times New Roman", serif;
 }
 
 @keyframes accordion-down {
@@ -60,12 +86,4 @@ body {
 
 .prose-store p + p {
   margin-top: 1rem;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  overflow-x: hidden;
 }

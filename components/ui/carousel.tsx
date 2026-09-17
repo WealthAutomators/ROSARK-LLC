@@ -106,7 +106,7 @@ export function Carousel({
           <Button
             variant="secondary"
             size="icon"
-            className="absolute left-0 top-1/2 z-10 -translate-y-1/2 rounded-full shadow-md"
+            className="absolute left-0 top-1/2 z-10 -translate-y-1/2 rounded-none shadow-sm"
             onClick={scrollPrev}
             aria-label="Previous slide"
           >
@@ -115,7 +115,7 @@ export function Carousel({
           <Button
             variant="secondary"
             size="icon"
-            className="absolute right-0 top-1/2 z-10 -translate-y-1/2 rounded-full shadow-md"
+            className="absolute right-0 top-1/2 z-10 -translate-y-1/2 rounded-none shadow-sm"
             onClick={scrollNext}
             aria-label="Next slide"
           >

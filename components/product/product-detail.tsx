@@ -67,7 +67,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
             <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
               {product.category}
             </p>
-            <h1 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl lg:text-4xl">
+            <h1 className="font-serif mt-2 text-3xl font-medium tracking-tight md:text-4xl lg:text-5xl">
               {product.name}
             </h1>
 
@@ -76,7 +76,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
             <div className="mt-6 flex flex-wrap items-center gap-3">
               {hasDiscount ? (
                 <>
-                  <span className="text-3xl font-semibold text-accent">
+                  <span className="text-3xl font-medium text-clay">
                     {formatPrice(product.salePrice!)}
                   </span>
                   <span className="text-xl text-muted-foreground line-through">
